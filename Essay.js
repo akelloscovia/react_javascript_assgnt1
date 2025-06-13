@@ -14,3 +14,11 @@
 
 // state is managed within a component, while props are passed from a parent component to a child component
 //  state are Mutable (can be changed within the component), while props are Immutable (read-only within the child)
+
+
+// Hooks are functions that allow functional components to access React state and lifecycle features.
+
+
+
+
+
